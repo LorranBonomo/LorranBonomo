@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LorranBonomo
+- 👀 I’m interested in learning about programming;
+- 🌱 I’m currently learning Python and SQL
+- 📫 How to reach me: https://www.instagram.com/lorran.bonomo/
